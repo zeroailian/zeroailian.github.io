@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ailian</title>
+    <link>https://zeroailian.github.io/posts/</link>
+    <description>Recent content in Posts on Ailian</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 May 2024 00:48:45 +0800</lastBuildDate>
+    <atom:link href="https://zeroailian.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>canvas实现图片的cover裁剪</title>
+      <link>https://zeroailian.github.io/posts/canvas-cover/</link>
+      <pubDate>Fri, 10 May 2024 00:48:45 +0800</pubDate>
+      <guid>https://zeroailian.github.io/posts/canvas-cover/</guid>
+      <description>使用canvas实现图片cover的裁剪 使用场景 需要将一张图片自适应到一个长度、宽度固定的容器中、且充满整个容器，但不希望压缩图片。在实际中，我们可以通过设置 div</description>
+    </item>
+    <item>
+      <title>node-semever总结</title>
+      <link>https://zeroailian.github.io/posts/node-semver/</link>
+      <pubDate>Fri, 10 May 2024 00:48:45 +0800</pubDate>
+      <guid>https://zeroailian.github.io/posts/node-semver/</guid>
+      <description>简介 每个项目的根目录下面，一般都会有package.json文件，定义了这个项目中所需各种模板及项目中的配置信息。npm install命令根据这个配置文件，自动</description>
+    </item>
+    <item>
+      <title>npm、yarn、pnpm的区别</title>
+      <link>https://zeroailian.github.io/posts/npmyarnpnpm%E7%9A%84%E5%8C%BA%E5%88%AB/</link>
+      <pubDate>Fri, 10 May 2024 00:48:45 +0800</pubDate>
+      <guid>https://zeroailian.github.io/posts/npmyarnpnpm%E7%9A%84%E5%8C%BA%E5%88%AB/</guid>
+      <description>npm、yarn、pnpm的区别 npm npm 1.x / 2.x 时期 npm 1.x版本和2.x版本，在下载包时，采用的是嵌套依赖树的模式。比如项目（project）依赖于package1和</description>
+    </item>
+  </channel>
+</rss>

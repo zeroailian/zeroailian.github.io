@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ailian</title>
+    <link>https://zeroailian.github.io/categories/</link>
+    <description>Recent content in Categories on Ailian</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 10 May 2024 00:48:45 +0800</lastBuildDate>
+    <atom:link href="https://zeroailian.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>前端</title>
+      <link>https://zeroailian.github.io/categories/%E5%89%8D%E7%AB%AF/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zeroailian.github.io/categories/%E5%89%8D%E7%AB%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>工具方法</title>
+      <link>https://zeroailian.github.io/categories/%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zeroailian.github.io/categories/%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>笔记</title>
+      <link>https://zeroailian.github.io/categories/%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zeroailian.github.io/categories/%E7%AC%94%E8%AE%B0/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
