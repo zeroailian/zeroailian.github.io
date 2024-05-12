@@ -6,28 +6,35 @@
     <description>Recent content on Ailian</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 10 May 2024 00:48:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 00:48:45 +0800</lastBuildDate>
     <atom:link href="https://zeroailian.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>canvas实现图片的cover裁剪</title>
-      <link>https://zeroailian.github.io/posts/canvas-cover/</link>
-      <pubDate>Fri, 10 May 2024 00:48:45 +0800</pubDate>
-      <guid>https://zeroailian.github.io/posts/canvas-cover/</guid>
-      <description>使用canvas实现图片cover的裁剪 使用场景 需要将一张图片自适应到一个长度、宽度固定的容器中、且充满整个容器，但不希望压缩图片。在实际中，我们可以通过设置 div</description>
-    </item>
-    <item>
-      <title>node-semever总结</title>
-      <link>https://zeroailian.github.io/posts/node-semver/</link>
-      <pubDate>Fri, 10 May 2024 00:48:45 +0800</pubDate>
-      <guid>https://zeroailian.github.io/posts/node-semver/</guid>
-      <description>简介 每个项目的根目录下面，一般都会有package.json文件，定义了这个项目中所需各种模板及项目中的配置信息。npm install命令根据这个配置文件，自动</description>
+      <title>css动效使用总结</title>
+      <link>https://zeroailian.github.io/posts/css%E6%92%AD%E6%94%BE%E5%8A%A8%E6%95%88/</link>
+      <pubDate>Mon, 13 May 2024 00:48:45 +0800</pubDate>
+      <guid>https://zeroailian.github.io/posts/css%E6%92%AD%E6%94%BE%E5%8A%A8%E6%95%88/</guid>
+      <description>使用webp格式的图片 使用方式：将webp的图片作为背景图或者放在img中。 出现的问题：在ios中会出现帧图片重影的情况。 使用拼接的序列帧长图 前提：设计提供每一</description>
     </item>
     <item>
       <title>npm、yarn、pnpm的区别</title>
       <link>https://zeroailian.github.io/posts/npmyarnpnpm%E7%9A%84%E5%8C%BA%E5%88%AB/</link>
       <pubDate>Fri, 10 May 2024 00:48:45 +0800</pubDate>
       <guid>https://zeroailian.github.io/posts/npmyarnpnpm%E7%9A%84%E5%8C%BA%E5%88%AB/</guid>
-      <description>npm、yarn、pnpm的区别 npm npm 1.x / 2.x 时期 npm 1.x版本和2.x版本，在下载包时，采用的是嵌套依赖树的模式。比如项目（project）依赖于package1和</description>
+      <description>npm npm 1.x / 2.x 时期 npm 1.x版本和2.x版本，在下载包时，采用的是嵌套依赖树的模式。比如项目（project）依赖于package1和package2，同时packa</description>
+    </item>
+    <item>
+      <title>node-semever总结</title>
+      <link>https://zeroailian.github.io/posts/node-semver/</link>
+      <pubDate>Sat, 29 Oct 2022 00:48:45 +0800</pubDate>
+      <guid>https://zeroailian.github.io/posts/node-semver/</guid>
+      <description>简介 每个项目的根目录下面，一般都会有package.json文件，定义了这个项目中所需各种模板及项目中的配置信息。npm install命令根据这个配置文件，自动</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://zeroailian.github.io/posts/canvas-cover/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zeroailian.github.io/posts/canvas-cover/</guid>
+      <description>title: &amp;ldquo;canvas实现图片的cover裁剪&amp;rdquo; date: &amp;ldquo;2024-05-10T00:48:45+08:00&amp;rdquo; draft: false categories: - 前端 - 工具方法 tags: - TS 使用场景 需要将一张图片自适应到一个长度、宽度固定的容器中、且充</description>
     </item>
     <item>
       <title>About</title>
@@ -48,7 +55,7 @@
       <link>https://zeroailian.github.io/nav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://zeroailian.github.io/nav/</guid>
-      <description>🌞 工具库 帮小忙 时间戳 mineitem three 🔨 常用网站 github gitee apifox processon 🔖 好文博客 你不知道javascript https://www.javascriptc.com/books/you-dont-know-js/ 前端开发核心知识进阶 https://codeteenager.github.io/fe-core-book/guide/</description>
+      <description>🌞 工具库 帮小忙 开发小工具 时间戳 配乐资源网 🔨 常用网站 github gitee apifox processon 设计网 时评网 写作网 🔖 好文博客 你不知道javascript https://www.javascriptc.com/books/you-dont-know-js/ 前端开发核心知识进阶 https://codeteenager.github.io/fe-core-book/guide/ 数据结构算法博客 https://ziyi2.github.io/algorithms/guide/introduction.html 算法</description>
     </item>
     <item>
       <title>Search</title>
