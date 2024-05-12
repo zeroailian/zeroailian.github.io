@@ -13,7 +13,7 @@
       <link>https://zeroailian.github.io/posts/canvas-cover/</link>
       <pubDate>Fri, 10 May 2024 00:48:45 +0800</pubDate>
       <guid>https://zeroailian.github.io/posts/canvas-cover/</guid>
-      <description>使用canvas实现图片cover的裁剪 使用场景 需要将一张图片自适应到一个长度、宽度固定的容器中、且充满整个容器，但不希望压缩图片。在实际中，我们可以通过设置 div</description>
+      <description>使用场景 需要将一张图片自适应到一个长度、宽度固定的容器中、且充满整个容器，但不希望压缩图片。在实际中，我们可以通过设置 div 标签的 background-size: cover; 来实现，也可以通过设置 img 标签的</description>
     </item>
   </channel>
 </rss>

@@ -16,6 +16,13 @@
       <description>使用webp格式的图片 使用方式：将webp的图片作为背景图或者放在img中。 出现的问题：在ios中会出现帧图片重影的情况。 使用拼接的序列帧长图 前提：设计提供每一</description>
     </item>
     <item>
+      <title>canvas实现图片的cover裁剪</title>
+      <link>https://zeroailian.github.io/posts/canvas-cover/</link>
+      <pubDate>Fri, 10 May 2024 00:48:45 +0800</pubDate>
+      <guid>https://zeroailian.github.io/posts/canvas-cover/</guid>
+      <description>使用场景 需要将一张图片自适应到一个长度、宽度固定的容器中、且充满整个容器，但不希望压缩图片。在实际中，我们可以通过设置 div 标签的 background-size: cover; 来实现，也可以通过设置 img 标签的</description>
+    </item>
+    <item>
       <title>npm、yarn、pnpm的区别</title>
       <link>https://zeroailian.github.io/posts/npmyarnpnpm%E7%9A%84%E5%8C%BA%E5%88%AB/</link>
       <pubDate>Fri, 10 May 2024 00:48:45 +0800</pubDate>
@@ -28,13 +35,6 @@
       <pubDate>Sat, 29 Oct 2022 00:48:45 +0800</pubDate>
       <guid>https://zeroailian.github.io/posts/node-semver/</guid>
       <description>简介 每个项目的根目录下面，一般都会有package.json文件，定义了这个项目中所需各种模板及项目中的配置信息。npm install命令根据这个配置文件，自动</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://zeroailian.github.io/posts/canvas-cover/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zeroailian.github.io/posts/canvas-cover/</guid>
-      <description>title: &amp;ldquo;canvas实现图片的cover裁剪&amp;rdquo; date: &amp;ldquo;2024-05-10T00:48:45+08:00&amp;rdquo; draft: false categories: - 前端 - 工具方法 tags: - TS 使用场景 需要将一张图片自适应到一个长度、宽度固定的容器中、且充</description>
     </item>
     <item>
       <title>About</title>
